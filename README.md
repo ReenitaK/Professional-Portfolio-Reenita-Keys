@@ -22,12 +22,18 @@ I help organizations grow by combining analytics and AI tools with strategic mar
 ---
 
 ## Portfolio Artifacts
-This portfolio includes required coursework artifacts such as:
 
-### Artifact #1 — AI Lab Documentation: Custom GPT Assistant
-This artifact showcases the AI Lab project where I designed and built a custom GPT assistant using ChatGPT’s GPT creation tools. The documentation includes the design process, instruction structure, testing results, and final configuration of the assistant. This project demonstrates my ability to build and refine AI-driven tools, apply prompt engineering principles, and document technical work in a clear and professional format.
+### Artifact #1 — AI Lab Documentation: Custom GPT Assistant (Adalyze)
+This artifact showcases the AI Lab project where I designed and built a custom GPT assistant for digital marketing analytics. The documentation includes the design process, tool comparisons, system instruction development, testing results, and final insights.
+
+**View the Adalyze GPT:**  
+https://chatgpt.com/g/g-693161a43c748191ae8df93041b7b7fe-adalyze
+
+**View Artifact Documentation →**  
+[artifact-01-ai-lab/README.md](artifact-01-ai-lab/README.md)
 
 Additional artifacts will be added as the course progresses.
+
 
 ---
 
