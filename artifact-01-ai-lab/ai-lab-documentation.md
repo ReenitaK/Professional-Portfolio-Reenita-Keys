@@ -91,3 +91,9 @@ Digital marketing increasingly relies on analytics, automation, and AI-assisted 
 
 ## References
 This artifact is based on original work completed during the AI Lab assignment. No external sources were required. 
+
+## Link to the Final Assistant
+Interact with Adalyze, the custom GPT assistant created for this lab:
+
+https://chatgpt.com/g/g-693161a43c748191ae8df93041b7b7fe-adalyze
+
