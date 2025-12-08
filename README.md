@@ -29,7 +29,7 @@ This artifact showcases the AI Lab project where I designed and built a custom G
 **View the Adalyze GPT:**  
 https://chatgpt.com/g/g-693161a43c748191ae8df93041b7b7fe-adalyze
 
-**View Artifact Documentation →**  
+**View Artifact Documentation:**  
 [artifact-01-ai-lab/README.md](artifact-01-ai-lab/README.md)
 
 Additional artifacts will be added as the course progresses.
