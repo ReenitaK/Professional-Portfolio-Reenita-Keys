@@ -32,6 +32,9 @@ https://chatgpt.com/g/g-693161a43c748191ae8df93041b7b7fe-adalyze
 **View Artifact Documentation:**  
 [artifact-01-ai-lab/README.md](artifact-01-ai-lab/README.md)
 
+### [Artifact #2 – Machine Learning vs. Deep Learning Case Study](Artifact_02_ML_vs_DL_Case_Study/README.md)
+Analysis of ML and DL approaches using house price prediction and image recognition. Includes APA-formatted report.
+
 Additional artifacts will be added as the course progresses.
 
 
