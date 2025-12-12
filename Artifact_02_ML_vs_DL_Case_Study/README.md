@@ -22,7 +22,8 @@ This artifact demonstrates my ability to analyze and differentiate between tradi
 - Clear explanation of model suitability and limitations  
 
 ## Included Files
-- **ML_DL_Assignment.docx** — Full APA-formatted report with title page and citations.
+- 📄 **Full APA-Formatted Report:**  
+[Machine Learning vs. Deep Learning – Case Study (DOCX)](ML_DL_Assignment.docx)
 
 ---
 
